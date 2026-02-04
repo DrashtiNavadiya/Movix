@@ -108,7 +108,7 @@ To set up the Anivers platform locally or on your AWS account, follow these step
 1. Clone the Repository:
 
 ```
-git clone https://github.com/divyapatil711/Movix.git
+https://github.com/DrashtiNavadiya/Movix.git
 cd anivers
 ```
 2. Configure AWS Credentials:
